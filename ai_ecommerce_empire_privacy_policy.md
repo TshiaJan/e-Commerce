@@ -52,5 +52,5 @@ We may periodically update our Privacy Policy to reflect app enhancements or evo
 If you have any questions, feedback, or concerns regarding this Privacy Policy or your data privacy, please contact:
 
 - **Developer:** Tshiamo Jantjie
-- **Email:** tshiajan@gmail.com
+- **Email:** janairedev@gmail.com
 - **Hosted Privacy Policy URL:** [https://tshiajan.github.io/ai-ecommerce-empire-privacy/](https://tshiajan.github.io/ai-ecommerce-empire-privacy/)
